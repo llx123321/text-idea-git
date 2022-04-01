@@ -5,5 +5,6 @@ public class testController {
         System.out.println("hello git!");
         System.out.println("hello git test");
         System.out.println("hello git dev");
+        System.out.println("重新提交");
     }
 }
